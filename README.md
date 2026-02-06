@@ -1,5 +1,5 @@
 <img src="https://github.com/user-attachments/assets/a1d7ced5-e6fc-41fd-9256-9d73a5f33597" alt="Krits Logo" width="50" height="50">
- this is being build
+ this is being build and 
 
 ## 🌟 Introduction
 Krits is an innovative social media marketing platform designed to help you streamline your social media management effortlessly. Built with Next.js, Tailwind CSS, Shadcn UI, Magic UI, Aceternity UI, Prisma, MongoDB, Clerk, React Hook Form, and TypeScript, Krits provides powerful analytics and user-friendly features to enhance your social media marketing experience.
