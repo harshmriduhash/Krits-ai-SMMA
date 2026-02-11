@@ -1,4 +1,3 @@
-
 this is being build and still in development phase for making it a MVP product 
 
 ## 🌟 Introduction
