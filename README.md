@@ -9,7 +9,7 @@ Krits is an innovative social media marketing platform designed to help you stre
 - Engagement rate calculations & trends
 - Audience growth & demographic insights
 - Custom report generation
-- ROI tracking and analysis
+- ROI tracking  analysis
 
 ## 💻 Tech Stack
 
