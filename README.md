@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/a1d7ced5-e6fc-41fd-9256-9d73a5f33597" alt="Krits Logo" width="50" height="50">
+
 this is being build and still in development phase for making it a MVP product 
 
 ## 🌟 Introduction
