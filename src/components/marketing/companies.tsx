@@ -19,7 +19,6 @@ const Companies = () => {
                             <Images.company6 className="w-24 h-8" />
                             <Images.company7 className="w-24 h-8" />
                             <Images.company8 className="w-24 h-8" />
-                            <Images.company9 className="w-24 h-8" />
                         </div>
                     </Marquee>
                     <div className="pointer-events-none absolute inset-y-0 left-0 w-1/4 bg-gradient-to-r from-background"></div>
