@@ -12,7 +12,6 @@ import { useClerk } from "@clerk/nextjs";
 
 const DashboardSidebar = () => {
   const { signOut } = useClerk();
-
   const pathname = usePathname();
 
   const handleLogout = async () => {
