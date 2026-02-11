@@ -1,7 +1,7 @@
 This is being build and still in development phase for making it a MVP product 
 
 ## 🌟 Introduction
-Krits is an innovative social media marketing platform designed to help you streamline your social media management effortlessly. Built with Next.js, Tailwind CSS, Shadcn UI, Magic UI, Aceternity UI, Prisma, MongoDB, Clerk, React Hook Form,  & TypeScript, Krits provides powerful analytics and user-friendly features to enhance your social media marketing experience.
+Krits is an innovative social media marketing platform designed to help you streamline your social media management effortlessly. Built with Next.js, Tailwind CSS, Shadcn UI, Magic UI, Aceternity UI, Prisma, MongoDB, Clerk, React Hook Form, & TypeScript, Krits provides powerful analytics and user-friendly features to enhance your social media marketing experience.
 
 ## 🚀 Features
 
