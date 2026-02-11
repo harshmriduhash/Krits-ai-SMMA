@@ -24,7 +24,7 @@ Krits is an innovative social media marketing platform designed to help you stre
 * Recharts
 * Framer Motion
 
-## 🛠️ Installation
+## 🛠️ Installation:
 To run Krits locally, follow these steps:
 
 1. Clone the repository:
