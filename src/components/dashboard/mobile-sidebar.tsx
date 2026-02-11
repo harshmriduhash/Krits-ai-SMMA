@@ -32,7 +32,7 @@ const MobileSidebar = () => {
               className="w-full justify-start gap-2 px-2"
             >
               <SearchIcon className="size-4" />
-              <span className="text-sm">Search..</span>
+              <span className="text-sm">search..</span>
             </Button>
             <ul className="w-full space-y-2 py-5">
               {SIDEBAR_LINKS.map((link, index) => {
